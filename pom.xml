@@ -4,7 +4,7 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>org.purejava</groupId>
+<groupId>net.avianlabs</groupId>
 <artifactId>tweetnacl-java</artifactId>
 <version>1.1.2-SNAPSHOT</version>
 <packaging>jar</packaging>
@@ -32,9 +32,9 @@
 </developers>
 
 <scm>
-	<connection>scm:git:git://github.com/purejava/tweetnacl-java.git</connection>
-	<developerConnection>scm:git:ssh://github.com/purejava/tweetnacl-java.git</developerConnection>
-	<url>https://github.com/purejava/tweetnacl-java/tree/master</url>
+	<connection>scm:git:git://github.com/avianlabs/tweetnacl-java.git</connection>
+	<developerConnection>scm:git:ssh://github.com/avianlabs/tweetnacl-java.git</developerConnection>
+	<url>https://github.com/avianlabs/tweetnacl-java/tree/master</url>
 </scm>
 
 <properties>
